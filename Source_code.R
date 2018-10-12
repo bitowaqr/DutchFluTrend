@@ -1,10 +1,12 @@
 
-### Source code for our manuscript:
+### Source code for:
   ### Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. 
-  ### Using digital epidemiology methods to monitor influenza-like illness 
-  ### in the Netherlands in real time: the 2017-2018 season. 2018.
   ###
-  ### PREPRINT available at: https://doi.org/10.1101/440867 
+  ### Using digital epidemiology methods to monitor influenza-like illness 
+  ### in the Netherlands in real time: the 2017-2018 season. 
+  ###
+  ### Until publication, please see the PREPRINT version 
+  ### available at: https://doi.org/10.1101/440867 
   ### 
   ### Source code license: CC BY
   ### Contact: project.flutrend@gmail.com
