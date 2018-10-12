@@ -1,6 +1,6 @@
 # 'DutchFluTrend'
 
-This repository holds the source code and data for the manuscript *Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real time: the 2017-2018 season* by Schneider PP, Paget J, Spreeuwenberg P, Donker G, Barnett DJ, van Gool CJAW. The preprint is available at [BioRxiv](LINK_TBC). 
+This repository holds the source code and data for the manuscript *Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real time: the 2017-2018 season* by Schneider PP, van Gool CJAW, Spreeuwenberg P, Donker G, Barnett DJ, Paget J,. The preprint version is available [here](LINK_TBC). 
 
 <br>
 
@@ -12,9 +12,7 @@ For comments or questions, please contact: project.flutrend@gmail.com
 
 ## Data references
 
-Preprint-version re: TBC
-
-ECDC. European Centre for Disease Prevention and Control. The european surveillance system – tessy. 2018; Available from: https://ecdc.europa.eu/en/publications-data/european-surveillance-system-tessy
+ECDC. European Centre for Disease Prevention and Control. The european surveillance system – tessy. 2018. Available from: https://ecdc.europa.eu/en/publications-data/european-surveillance-system-tessy
 
 Nivel. Netherlands Institute of Health Service Research. Primary care database. 2018; Available from: http://www.nivel.nl/en/dossier/nivel-primary-care-database
 
