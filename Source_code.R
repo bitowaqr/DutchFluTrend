@@ -1,9 +1,11 @@
 
 ### Source code for our manuscript:
+  ### Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. 
   ### Using digital epidemiology methods to monitor influenza-like illness 
-  ### in the Netherlands in real time: the 2017-2018 season
+  ### in the Netherlands in real time: the 2017-2018 season. 2018.
   ###
-  ### Manuscript available at: TBC
+  ### PREPRINT available at: https://doi.org/10.1101/440867 
+  ### 
   ### Source code license: CC BY
   ### Contact: project.flutrend@gmail.com
   ### 
@@ -662,12 +664,7 @@
 
 #### Produce the manuscript from RMarkdown
   cat("\n Producing the manuscript \n ")
-  # render MD
-  rmarkdown::render("manuscript/manuscript_source_code.Rmd", 
-                    output_format = c("md_document"),
-                    output_file = c("manuscript.md"),
-                    output_dir = c("manuscript"),
-                    clean = T)
+  
   # render PDF
   rmarkdown::render("manuscript/manuscript_source_code.Rmd", 
                     output_format = c("pdf_document"),
