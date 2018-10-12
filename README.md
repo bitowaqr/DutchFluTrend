@@ -1,6 +1,6 @@
 # 'DutchFluTrend'
 
-This repository holds the source code and data for the manuscript *Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real time: the 2017-2018 season* by Schneider PP, van Gool CJAW, Spreeuwenberg P, Donker G, Barnett DJ, Paget J,. The preprint version is available [here](LINK_TBC). 
+This repository holds the source code and data for the manuscript *Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real time: the 2017-2018 season* by Schneider PP, van Gool CJAW, Spreeuwenberg P, Donker G, Barnett DJ, Paget J,. Until publication, please see the [PREPRINT version](https://doi.org/10.1101/440867). 
 
 <br>
 
